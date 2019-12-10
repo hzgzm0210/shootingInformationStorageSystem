@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b26033b-7b72-4e0e-b3d5-02313436876b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ujlm2K8tAMmFaBKOSo3YygcrvJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shootingInformationStorageSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b26033b-7b72-4e0e-b3d5-02313436876b" name="Default Changelist" comment="" />
+      <created>1575878043031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575878043031</updated>
+      <workItem from="1575878051373" duration="1049000" />
+      <workItem from="1575879244858" duration="271000" />
+      <workItem from="1575879894119" duration="1040000" />
+      <workItem from="1575881178254" duration="175000" />
+      <workItem from="1575881428007" duration="164000" />
+      <workItem from="1575881624529" duration="57000" />
+      <workItem from="1575881701297" duration="5072000" />
+      <workItem from="1575941050119" duration="6274000" />
+    </task>
+    <task id="LOCAL-00001" summary="射击信息存储管理系统">
+      <created>1575945385507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575945385507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="射击信息存储管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="射击信息存储管理系统" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575882766452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1575882766452" />
+    <state x="197" y="1" key="CommitChangelistDialog2" timestamp="1575945372005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="197" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575945372005" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1575944063440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575944063440" />
+    <state width="1492" height="310" key="GridCell.Tab.0.bottom" timestamp="1575889822113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575889822113" />
+    <state width="1492" height="310" key="GridCell.Tab.0.center" timestamp="1575889822113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575889822113" />
+    <state width="1492" height="310" key="GridCell.Tab.0.left" timestamp="1575889822113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575889822113" />
+    <state width="1492" height="310" key="GridCell.Tab.0.right" timestamp="1575889822113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575889822113" />
+    <state width="1492" height="310" key="GridCell.Tab.1.bottom" timestamp="1575889822114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575889822114" />
+    <state width="1492" height="310" key="GridCell.Tab.1.center" timestamp="1575889822114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575889822114" />
+    <state width="1492" height="310" key="GridCell.Tab.1.left" timestamp="1575889822114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575889822114" />
+    <state width="1492" height="310" key="GridCell.Tab.1.right" timestamp="1575889822114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="310" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575889822114" />
+    <state x="461" y="101" width="748" height="604" key="NewModule_or_Project.wizard" timestamp="1575959711923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="101" width="748" height="604" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1575959711923" />
+    <state x="74" y="57" key="SettingsEditor" timestamp="1575958160347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="74" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575958160347" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575941134140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575941134140" />
+    <state x="331" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575882446536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575882446536" />
+  </component>
+</project>
